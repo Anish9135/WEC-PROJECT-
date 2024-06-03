@@ -36,5 +36,5 @@ void loop() {
   LCD.print(targetDistance); //Print measured distance
   // LCD.print(" inches");  //Print your units.
   delay(250); //pause to let things settle
-  
+  ..
   }  
